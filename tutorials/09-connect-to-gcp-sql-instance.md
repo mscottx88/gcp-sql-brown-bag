@@ -4,7 +4,7 @@ Let's learn how to connect to your GCP SQL Instance!
 Follow these step-by-step instructions to connect to your GCP SQL Instance.
 
 - Launch `pgAdmin 4` if you haven't already.
-  **Note** The [pgAdmin Setup](setup-pg-admin-client.md) must be completed.
+  - **Note** The [pgAdmin Setup](07-setup-pg-admin-client.md) must be completed.
 - At the top, click the menu item `Object`.
 - Hover over `Create` and click `Server...`.
 - In the `General` tab:
