@@ -19,5 +19,4 @@ Follow these step-by-step instructions to connect to your GCP SQL Instance.
     - **Note** Unless you chose a different starting password for `postgres` user.
   - Hit Save.
 
-If all goes well, your `pgAdmin` client should display a new element under
-`Servers` which should be the name of the server you've setup.
+If all goes well, your `pgAdmin` client should display a new element under `Servers` which should be the name of the server you've setup.

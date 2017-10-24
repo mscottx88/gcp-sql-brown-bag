@@ -9,10 +9,7 @@ If you haven't done so already, visit and sign in to your project here https://c
 - Give your new project a snazzy name.
   - **Note** If you can't think of anything, try `my-gcp-sql-project`.
 - Click Create
-  - **Note** Project creation is not instantaneous.  In the upper right, you should
-  see a bell-shaped Notifications icon.  You can observe the progress of long-running
-  tasks there.
-- Once your project finishes creating, click that same `My Project` dropdown and
-then click the link to your new project.
+  - **Note** Project creation is not instantaneous.  In the upper right, you should see a bell-shaped Notifications icon.  You can observe the progress of long-running tasks there.
+- Once your project finishes creating, click that same `My Project` dropdown and then click the link to your new project.
 
 You should now see the dashboard to your first GCP Project!
