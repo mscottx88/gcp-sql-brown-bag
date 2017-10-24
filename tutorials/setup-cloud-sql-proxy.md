@@ -7,11 +7,11 @@ needed for connecting to your GCP SQL Instance.
 for your machine.
 - Once you've obtained the `cloud_sql_proxy` tool, let's invoke it from a terminal.
 
-**Note** This command needs then [Instance Connection Name](04-get-instance-connection-name.md).
+**Note** This command needs the [Instance Connection Name](get-instance-connection-name.md).
 
-**Note** This command requires the [Google Cloud SQL API](05-enable-google-cloud-sql-api.md).
+**Note** This command needs the [Google Cloud SQL API](enable-google-cloud-sql-api.md).
 
-**Note** This command needs the [Service Account Credentials](06-create-sql-instance-service-account.md).
+**Note** This command needs the [Service Account Credentials](create-sql-instance-service-account.md).
 
 For example:
 

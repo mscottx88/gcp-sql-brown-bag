@@ -1,7 +1,7 @@
 # Ensure It's All Working
 If you've completed all the previous steps everything should be working.  Let's kick the tires anyway.
 
-**Note** Ensure the [cloud_sql_proxy](08-setup-cloud-sql-proxy.md) is setup and running.
+**Note** Ensure the [cloud_sql_proxy](setup-cloud-sql-proxy.md) is setup and running.
 
 - In `pgAdmin 4`, expand the tree element for your GCP SQL project.
 - Expand the `Databases` element.
