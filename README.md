@@ -5,6 +5,7 @@ Follow these tutorials to learn how to setup a GCP project with SQL!
 1. [Setup pgAdmin Client](tutorials/setup-pg-admin-client.md)
 2. [Setup Cloud SQL Proxy](tutorials/setup-cloud-sql-proxy.md)
 
+# Create the Project
 1. [Getting Started](tutorials/getting-started.md)
 2. [Your First GCP Project](tutorials/your-first-gcp-project.md)
 3. [Your First GCP SQL Instance](tutorials/your-first-gcp-sql-instance.md)
