@@ -3,8 +3,7 @@ To be able to connect you'll also need to enable the Cloud SQL API for your proj
 
 Follow these step-by-step instructions to enable the Google Cloud SQL API.
 
-- At the left side of the page hit the navigation slide in and locate and pin the
-`APIs & services` menu item.
+- At the left side of the page hit the navigation slide in and locate and pin the `APIs & services` menu item.
 - Click `APIs & services`.
 - From the Dashboard, click `+ Enable APIs and Services`.
 - In the search bar enter `SQL`.

@@ -1,5 +1,5 @@
 # Welcome
-Follow these tutorials to learn how to setup a GCP project with SQL!
+Clone or Download this repository today and follow these tutorials to learn how to setup a GCP project with SQL!
 
 # Prerequisites
 1. [Setup pgAdmin Client](tutorials/setup-pg-admin-client.md)
