@@ -1,0 +1,32 @@
+{
+  "name": "google-cloud-sql-brown-bag",
+  "version": "1.0.0",
+  "description": "A project to teach you how to use GCP SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mscottx88/gcp-sql-brown-bag.git"
+  },
+  "keywords": [
+    "google",
+    "cloud",
+    "project",
+    "gcp",
+    "sql",
+    "node"
+  ],
+  "author": "Michael P. Scott <mscottx88@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mscottx88/gcp-sql-brown-bag/issues"
+  },
+  "homepage": "https://github.com/mscottx88/gcp-sql-brown-bag#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pg": "^7.3.0"
+  }
+}

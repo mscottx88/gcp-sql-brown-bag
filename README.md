@@ -2,8 +2,9 @@
 Clone or Download this repository today and follow these tutorials to learn how to setup a GCP project with SQL!
 
 # Prerequisites
-1. [Setup pgAdmin Client](tutorials/setup-pg-admin-client.md)
-2. [Setup Cloud SQL Proxy](tutorials/setup-cloud-sql-proxy.md)
+1. [Setup `pgAdmin 4` Client](tutorials/setup-pg-admin-client.md)
+2. [Setup `cloud_sql_proxy`](tutorials/setup-cloud-sql-proxy.md)
+3. Install latest Node 8+ ...
 
 # Create the Project
 1. [Getting Started](tutorials/getting-started.md)
@@ -14,3 +15,6 @@ Clone or Download this repository today and follow these tutorials to learn how 
 6. [Create SQL Instance Service Account](tutorials/create-sql-instance-service-account.md)
 7. [Connect to GCP SQL Instance](tutorials/connect-to-gcp-sql-instance.md)
 8. [Ensure It's Working](tutorials/ensure-its-working.md)
+
+# Connect with Node Express
+1.
